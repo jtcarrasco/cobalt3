@@ -1,2 +1,2 @@
-# cobalt2
-cobalt2 theme for everyone!
+# cobalt3
+cobalt3 theme for everyone!
